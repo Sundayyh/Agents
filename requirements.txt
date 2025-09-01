@@ -1,6 +1,6 @@
-rich 
+rich>=10.0.0
 sentence_transformers 
-dotenv 
+python-dotenv
 langchain_deepseek 
 langchain_huggingface 
 langchain_community 
